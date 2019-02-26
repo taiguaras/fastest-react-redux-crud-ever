@@ -1,2 +1,3 @@
-# fastest-vanilla-redux-crud-ever
-The fastest react-vanilla CRUD implementation ever. Literally.
+# fastest-redux-crud-ever
+The fastest redux CRUD implementation ever. 
+With vanilla and react UI examples.
