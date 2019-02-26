@@ -1,2 +1,2 @@
-# fastest-react-redux-crud-ever
-The fastest react-redux CRUD implementation ever. Literally.
+# fastest-vanilla-redux-crud-ever
+The fastest react-vanilla CRUD implementation ever. Literally.
